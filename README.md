@@ -2,8 +2,8 @@ This GitHub repository contains the following:
 
 
 A]	The IDs of revised labels from both iterations for HASOC Hindi 2019 dataset, provided in the following files:
-* relabel_iter1_text_ids: IDs corresponding to the first iteration for HASOC Hindi 2019 dataset.
-* relabel_iter2_text_ids: IDs corresponding to the second iteration for HASOC Hindi 2020 dataset.
+* relabel_iter1_text_ids_2019.csv: IDs corresponding to the first iteration for HASOC Hindi 2019 dataset.
+* relabel_iter2_text_ids_2019.csv: IDs corresponding to the second iteration for HASOC Hindi 2020 dataset.
 
   
 B] relabel_ids_2020.csv: IDS corresponding to revised labels for HASOC Hindi 2020 dataset.
