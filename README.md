@@ -4,8 +4,12 @@ This GitHub repository contains the following:
 A]	The IDs of revised labels from both iterations for HASOC Hindi 2019 dataset, provided in the following files:
 * relabel_iter1_text_ids: IDs corresponding to the first iteration for HASOC Hindi 2019 dataset.
 * relabel_iter2_text_ids: IDs corresponding to the second iteration for HASOC Hindi 2020 dataset.
+
+  
 B] relabel_ids_2020.csv: IDS corresponding to revised labels for HASOC Hindi 2020 dataset.
 C] relabel_ids_2021.csv: IDS corresponding to revised labels for HASOC Hindi 2021 dataset.
+
+
 * These IDs are used to construct the disaggregated resource
 
 B] The HH-LEX lexicon used in this study is available on Zenodo.
