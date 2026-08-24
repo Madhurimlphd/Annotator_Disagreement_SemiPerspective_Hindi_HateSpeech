@@ -19,6 +19,6 @@ D] The HH-LEX lexicon used in this study is available on Zenodo.
 * Link for lexicon specific to HASOC Hindi 2020 dataset:https://zenodo.org/records/22031320
 * Link for lexicon specific to HASOC Hindi 2021 dataset:https://zenodo.org/records/22031681
 
-C] The detailed workflow of the code utilised in the experimented is documented in the file Code_Structure. The code for FI-RC is implemented in the models_rankcorrelation5.ipynb
+C] The detailed workflow of the code utilised in the experimented is documented in the file Code_Structure. The code for FI-RC framework is implemented in the models_rankcorrelation5.ipynb
 
 D] A detailed description of the lexicon is provided in the preprint linked: https://assets-eu.researchsquare.com/files/rs-9236082/v1_covered_05423bc5-88a9-478e-98a0-7c05e4e71e84.pdf
